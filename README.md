@@ -1,4 +1,5 @@
-# Terrorism-dashboard
+# Terrorism-dashboard(PowerBI)
+# Task-2 Interncareer
 # Excited to share my latest project using Power BI as a part of my internship as Data Analyst Intern at InternCareer, where I delved into the intriguing realm of global terrorism data! 
 # Utilizing comprehensive dataset, I crafted insightful visualizations shedding light on various aspects of terrorist activities worldwide. 
 # Here's a glimpse into what I've accomplished:
